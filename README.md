@@ -1,6 +1,6 @@
 # Website Template Magazine Blog
 
-<img src="https://img.shields.io/github/repo-size/pardnchiu/web-template-magazine-blog?label=size&color=bb4444"> <img src="https://img.shields.io/github/license/pardnchiu/web-template-magazine-blog?label=license&color=44bb44"> <img src="https://img.shields.io/badge/creator-邱敬幃%20Pardn%20Chiu-4444bb">
+<img src="https://img.shields.io/github/repo-size/pardnchiu/web-magazine-blog?label=size&color=bb4444"> <img src="https://img.shields.io/github/license/pardnchiu/web-magazine-blog?label=license&color=44bb44"> <img src="https://img.shields.io/badge/creator-邱敬幃%20Pardn%20Chiu-4444bb">
 
 ![Website Template Magazine Blog - 邱敬幃 Pardn Chiu](https://repository-images.githubusercontent.com/667939292/6c3da983-1369-4941-8a6f-61f602fe6529)
 
@@ -8,7 +8,7 @@
 
 - Use [Font Awesome 6](https://fontawesome.com/v6/search) icons and [Lorem Picsum](https://picsum.photos) photos.
 - Render by [PDRenderKit](https://pardnchiu.github.io/PDRenderKit/) and [PDMarkdownKit](https://pardnchiu.github.io/PDMarkdownKit/).
-- Preview available [Here](https://pardnchiu.github.io/web-template-magazine-blog/).
+- Preview available [Here](https://pardnchiu.github.io/web-magazine-blog/).
 
 ## Languages & Tools
 
